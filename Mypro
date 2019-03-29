@@ -2,7 +2,8 @@
 vid main()
 {
 int a=5,b=6;
-int c; 
+int c;
+clrscr();
 c=a+b;
 printf("addition of %d and %d = %d",a,b,c);
 return 0;
